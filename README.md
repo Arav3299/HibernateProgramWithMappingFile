@@ -1,0 +1,2 @@
+# HibernateProgramWithMappingFile
+mapping file
